@@ -1,4 +1,4 @@
-# ObjectDetectionLearner
+# 手撕 CNN 经典网络系列
 
 目标检测学习路线！
 
