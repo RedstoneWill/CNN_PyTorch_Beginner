@@ -4,7 +4,7 @@
 
 ## [1. LeNet-5](https://github.com/RedstoneWill/ObjectDetectionLearner/tree/main/LeNet-5)
 
-![](https://github.com/RedstoneWill/ObjectDetectionLearner/blob/main/images/lenet5.png)
+![](./images/lenet5.png)
 
 [手撕目标检测算法：这可能是LeNet-5最详细的解释了！](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247529903&amp;idx=1&amp;sn=7b44c1544a26c5df89539ba10fe0ca6d&amp;chksm=976cd032a01b59248f9bbce8cbc039820c5f8fe882706b92a5f0539d748cd52efc2b1e918ff7&token=431225665&lang=zh_CN#rd)
 
