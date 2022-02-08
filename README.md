@@ -15,3 +15,5 @@
 [手撕目标检测算法：LeNet-5的PyTorch复现（自定义数据集篇）！](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247531081&amp;idx=2&amp;sn=7265cd037d0bc87182c28c5aef566639&amp;chksm=976cdfd4a01b56c259fcce29d0f4d13a0cba304d81298016db73c543d67981aeed06545e0c8d&token=431225665&lang=zh_CN#rd)
 
 ## [2. AlexNet](https://github.com/RedstoneWill/ObjectDetectionLearner/tree/main/AlexNet)
+
+![](./images/alexnet.png)
