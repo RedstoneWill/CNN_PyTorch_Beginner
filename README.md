@@ -20,6 +20,8 @@ CNN 经典网络学习路线！
 
 [手撕 CNN 经典网络之 AlexNet（理论篇）](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247532770&amp;idx=1&amp;sn=b45fd0bdbe49426c1a9ffbbb0cb7d341&amp;chksm=976ce57fa01b6c690349f91d633eb678943b29915fd159175b8ead97c982a40b8d0e350e0890&token=1297065527&lang=zh_CN#rd)
 
+[手撕 CNN 经典网络之 AlexNet（PyTorch 实战篇）](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247533025&amp;idx=2&amp;sn=2cc6340de19e3388ea7d461fcf710422&amp;chksm=976ce47ca01b6d6a036e76b2e640461c4091a445feba909fe778dc30d2e153f9f6eb0679066a&token=782404193&lang=zh_CN#rd)
+
 ## [3. VGGNet](https://github.com/RedstoneWill/CNN_PyTorch_Beginner/blob/main/VGGNet)
 
 ![](./images/vgg.png)
