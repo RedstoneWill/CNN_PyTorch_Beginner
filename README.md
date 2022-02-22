@@ -5,7 +5,7 @@ CNN 经典网络学习路线！
 ## [1. LeNet-5](https://github.com/RedstoneWill/CNN_PyTorch_Beginner/tree/main/LeNet-5)
 
 ![](./images/lenet5.png)
-<img src="./images/lenet5.png" width = "400" height = "200" alt="lenet5" align=center />
+<img src="./images/lenet5.png" width = "800" alt="lenet5" align=center />
 
 [手撕 CNN 经典网络之 LeNet-5（理论篇）](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247529903&amp;idx=1&amp;sn=7b44c1544a26c5df89539ba10fe0ca6d&amp;chksm=976cd032a01b59248f9bbce8cbc039820c5f8fe882706b92a5f0539d748cd52efc2b1e918ff7&token=431225665&lang=zh_CN#rd)
 
