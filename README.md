@@ -4,8 +4,7 @@ CNN 经典网络学习路线！
 
 ## [1. LeNet-5](https://github.com/RedstoneWill/CNN_PyTorch_Beginner/tree/main/LeNet-5)
 
-![](./images/lenet5.png)
-<img src="./images/lenet5.png" width = "800" alt="lenet5" align=center />
+<img src="./images/lenet5.png" width = "900" alt="lenet5" align=center/>
 
 [手撕 CNN 经典网络之 LeNet-5（理论篇）](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247529903&amp;idx=1&amp;sn=7b44c1544a26c5df89539ba10fe0ca6d&amp;chksm=976cd032a01b59248f9bbce8cbc039820c5f8fe882706b92a5f0539d748cd52efc2b1e918ff7&token=431225665&lang=zh_CN#rd)
 
@@ -17,7 +16,7 @@ CNN 经典网络学习路线！
 
 ## [2. AlexNet](https://github.com/RedstoneWill/CNN_PyTorch_Beginner/tree/main/AlexNet)
 
-![](./images/alexnet.png)
+<img src="./images/alexnet.png" width = "900" alt="lenet5" align=center/>
 
 [手撕 CNN 经典网络之 AlexNet（理论篇）](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&amp;mid=2247532770&amp;idx=1&amp;sn=b45fd0bdbe49426c1a9ffbbb0cb7d341&amp;chksm=976ce57fa01b6c690349f91d633eb678943b29915fd159175b8ead97c982a40b8d0e350e0890&token=1297065527&lang=zh_CN#rd)
 
@@ -25,4 +24,4 @@ CNN 经典网络学习路线！
 
 ## [3. VGGNet](https://github.com/RedstoneWill/CNN_PyTorch_Beginner/blob/main/VGGNet)
 
-![](./images/vgg.png)
+<img src="./images/vgg.png" width = "900" alt="lenet5" align=center/>
