@@ -25,3 +25,7 @@ CNN 经典网络学习路线！
 ## [3. VGGNet](https://github.com/RedstoneWill/CNN_PyTorch_Beginner/blob/main/VGGNet)
 
 <img src="./images/vgg.png" width = "800" alt="lenet5" align=center/>
+
+[手撕 CNN 经典网络之 VGGNet（理论篇）](https://mp.weixin.qq.com/s/UVbRDItPs9vGNlIFgK97Lw)
+
+
